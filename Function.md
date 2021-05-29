@@ -1,4 +1,4 @@
-## Functional Modules
+## 6. Functional Modules
 We have many different ways to circulate the trillionaire coin online, In addition to being circulated on exchanges, it can also be circulated on our website.
 We are building a web platform by an excellent and professional IT development team lead by one software principle and two software expert engineers. There are several excited modules designed on this platform which provide holders a lot of features can be enjoyed and circulate the trillionaire coin.
 

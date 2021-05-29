@@ -1,9 +1,10 @@
-* [Introduction](README.md)
-* [The development history of digital assets](History.md)
-* [Introduction](Introduction.md)
-* [What is ERC20 token?](ERC20.md)
-* [The team](Team.md)
-* [Coin allocation](Ecology.md)
+* [History](History.md)
+* [Project Introduction](Introduction.md)
+* [ERC20](ERC20.md)
+* [Team](Team.md)
+* [Ecology](Ecology.md)
 * [Functional Modules](Function.md)
 * [System Design](System.md)
 * [Roadmap](Roadmap.md)
+* 
+
