@@ -1,4 +1,4 @@
-<center><font size=10>Token Whitepaper</font></center>
+<center><font size=10>Trillionaire Token Whitepaper</font></center>
 
 
 

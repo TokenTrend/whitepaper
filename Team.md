@@ -19,3 +19,5 @@ We have formed a team of highly ambitious blockchain professionals to achieve an
 **Developer Raphael**, Expert in Java language, main programmer for multithreaded programming, real-time and high-performance middleware software. 
 
 **Developer Peng**, Over 15 years’ experience in software development/integration. Developer of Auckland Blockchainlabs (technical team). 
+
+ ![avatar](./pic/team.png)

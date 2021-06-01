@@ -1,10 +1,9 @@
-* [History](History.md)
-* [Project Introduction](Introduction.md)
-* [ERC20](ERC20.md)
-* [Team](Team.md)
-* [Ecology](Ecology.md)
-* [Functional Modules](Function.md)
-* [System Design](System.md)
-* [Roadmap](Roadmap.md)
-* 
+* [1. History](History.md)
+* [2. Project Introduction](Introduction.md)
+* [3. ERC20](ERC20.md)
+* [4. Team](Team.md)
+* [5. Ecology](Ecology.md)
+* [6. Functional Modules](Function.md)
+* [7. System Design](System.md)
+* [8. Roadmap](Roadmap.md)
 

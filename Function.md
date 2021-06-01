@@ -8,8 +8,8 @@ We are building a web platform by an excellent and professional IT development t
 We will setup a lot of entertainment features in this module, like the quiz of the trend of real cryptocurrencies. Holders can use their trillionaire coins to have some fun as well as some benefits with these features. There will be a ranking board shows who are the best players in this module, since the trend we get is the real data from exchange, so the rank can show the true level of these top players, that makes their sharing and comments in our community module can guide other holders about the trend of real cryptocurrencies.
 
 We guarantee that there will be absolutely NO fee in this module, that means when holders enjoy here, it is a win-win business model without any extra burden that have to take. 
-![avatar](./pic/feature1-1.png) 
-![avatar](./pic/feature1-2.png)
+<img src="./pic/feature1-1.png" alt="avatar" style="zoom:150%;" /> 
+<img src="./pic/feature1-2.png" alt="avatar" style="zoom:90%;" />
 ![avatar](./pic/feature1-3.png) ![avatar](./pic/feature1-4.png)
 
 ### Feature2: The game module, including several different online games such as chess and cards.

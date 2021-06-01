@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>System Design · Trillionaire Token Whitepaper</title>
+        <title>7. System Design · Trillionaire Token Whitepaper</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -111,7 +111,7 @@
                 <a href="History.html">
             
                     
-                    History
+                    1. History
             
                 </a>
             
@@ -124,7 +124,7 @@
                 <a href="Introduction.html">
             
                     
-                    Project Introduction
+                    2. Project Introduction
             
                 </a>
             
@@ -137,7 +137,7 @@
                 <a href="ERC20.html">
             
                     
-                    ERC20
+                    3. ERC20
             
                 </a>
             
@@ -150,7 +150,7 @@
                 <a href="Team.html">
             
                     
-                    Team
+                    4. Team
             
                 </a>
             
@@ -163,7 +163,7 @@
                 <a href="Ecology.html">
             
                     
-                    Ecology
+                    5. Ecology
             
                 </a>
             
@@ -176,7 +176,7 @@
                 <a href="Function.html">
             
                     
-                    Functional Modules
+                    6. Functional Modules
             
                 </a>
             
@@ -189,7 +189,7 @@
                 <a href="System.html">
             
                     
-                    System Design
+                    7. System Design
             
                 </a>
             
@@ -202,7 +202,7 @@
                 <a href="Roadmap.html">
             
                     
-                    Roadmap
+                    8. Roadmap
             
                 </a>
             
@@ -240,7 +240,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >System Design</a>
+        <a href="." >7. System Design</a>
     </h1>
 </div>
 
@@ -256,7 +256,15 @@
                                 <section class="normal markdown-section">
                                 
                                 <h2 id="7-system-design">7. System Design</h2>
+<p>We design a Four-layer structure to ensure the high reliability, scability, and integrity of the whole system, as well as the high security of all necessary data. As a result, we provide customers an efficient and trustable platform.</p>
+<ol>
+<li>Network Layer: As the basic foundation of the TT cross-chain token, we will aggregate high-quality public chains and DeFi ecological systems based on these chains. This includes Ethereum, Binance Smart Chain and Huobi Chain to provide cross-chain trading.</li>
+<li>Visualization Layer: We developed multiple visualized website layer with the most rigorous authentication methodology of blockchain to ensure the safety of users.</li>
+<li>Application Layer: We put 2 load balancer clusters in front of components which distribute network traffic and workloads across 2 computing clusters, which increase the availability and fault tolerance of whole system. We build 2 application clusters to further ensure the stability and throughput of the system.</li>
+<li><p>Data layer:  We use database to store necessary data so all the transaction and other activity data can be tracking and reused. We use Redis cluster as the cache layer and ES cluster to enhance the response efficiency and improve the protection of the database. For the data in Solidity, we isolate the data layer and logic layer so that the code in Sol can be updated and maintained easily in the future.</p>
 <p><img src="pic/system-design.png" alt="avatar"></p>
+</li>
+</ol>
 
                                 
                                 </section>
@@ -284,12 +292,12 @@
 
             
                 
-                <a href="Function.html" class="navigation navigation-prev " aria-label="Previous page: Functional Modules">
+                <a href="Function.html" class="navigation navigation-prev " aria-label="Previous page: 6. Functional Modules">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="Roadmap.html" class="navigation navigation-next " aria-label="Next page: Roadmap">
+                <a href="Roadmap.html" class="navigation navigation-next " aria-label="Next page: 8. Roadmap">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -300,7 +308,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"System Design","level":"1.8","depth":1,"next":{"title":"Roadmap","level":"1.9","depth":1,"path":"Roadmap.md","ref":"Roadmap.md","articles":[]},"previous":{"title":"Functional Modules","level":"1.7","depth":1,"path":"Function.md","ref":"Function.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-comscore"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-comscore":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Trillionaire Token Whitepaper","gitbook":"*","description":"This is whitepaper for Trillionaire Token."},"file":{"path":"System.md","mtime":"2021-05-29T01:52:59.193Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-29T02:38:10.802Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"7. System Design","level":"1.8","depth":1,"next":{"title":"8. Roadmap","level":"1.9","depth":1,"path":"Roadmap.md","ref":"Roadmap.md","articles":[]},"previous":{"title":"6. Functional Modules","level":"1.7","depth":1,"path":"Function.md","ref":"Function.md","articles":[]},"dir":"ltr"},"config":{"plugins":["theme-comscore"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-comscore":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Trillionaire Token Whitepaper","gitbook":"*","description":"This is whitepaper for Trillionaire Token."},"file":{"path":"System.md","mtime":"2021-06-01T11:48:57.444Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-06-01T12:22:17.648Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
