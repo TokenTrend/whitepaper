@@ -1,4 +1,4 @@
-## 5. Ecology
+## 5. Token Allocation
 
 ![avatar](./pic/ecology.png) 
 
