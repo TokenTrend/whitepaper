@@ -1,4 +1,4 @@
-## 3. Trend with AI
+## 3. Trend Based On AI
 We want to forecast crypto coin prices with the help of machine learning and deep learning. To simplify our tasks, we pick BTC as our pilot then ETH. Our goal is to forecast the prices of top 10 crypto coins in future. We setup a theory of **Time-series forecasting Crypto Coin prices using Hybrid Machine Learning Techniques, Public Sentiment and Regulatory Policies**
 
 ### 3.1 Machine Leaning
