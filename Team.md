@@ -2,7 +2,7 @@
 
 We have formed a team of highly ambitious blockchain professionals to achieve an important goal — Establish a universal cryptocurrency that can be highly circulated worldwide, and at the same time develop a community that provide somer service like entertainment, discussion and so on, and the currency can be highly circulated on the community.
 
-**CEO Rodriguez**, More than 13 years’ experience of internet development in multiple technical middleware.Proficient in Java, Go and Rust and DevOps Expert.
+**CEO Ivy**, More than 13 years’ experience of internet development in multiple technical middleware.Proficient in Java, Go and Rust and DevOps Expert.
 
 **CTO Louis**, More than 13 years' experience in research and development of IT industry. ACMer and expert in algorithm. Hold 3 patents and 3 papers which were published in international conferences. Familiar with blockchain and solidity. Gonzalo Core Developer. 
 
