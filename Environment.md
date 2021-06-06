@@ -1,6 +1,3 @@
 ## 6. Environment Protection
 
-To ensure the rarity and value of bitcoin, the amount of money in circulation is limited. Therefore, there are countless computers participating in "mining" all over the world, competing for bitcoin with high-speed computing. With the increasing value of bitcoin, more and more computers are involved in mining, and the power consumption is also increasing. Many places still rely on fossil fuels for power generation, so increasing electricity consumption will cause environmental problems.
-
-
-Considering the shortcomings of coin, we decided to donate 5% of TokenTrend for environmental protection.
+To ensure the rarity and value of bitcoin, the amount of money in circulation is limited. Therefore, there are countless computers participating in "mining" all over the world, competing for bitcoin with high-speed computing. With the increasing value of bitcoin, more and more computers are involved in mining, and the power consumption is also increasing. Many places still rely on fossil fuels for power generation, so increasing electricity consumption will cause environmental problems. Considering the shortcomings of coin, we decided to donate 5% of TokenTrend for environmental protection.
