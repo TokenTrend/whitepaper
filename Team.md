@@ -1,4 +1,4 @@
-##  4. The team
+##  7. The team
 
 We have formed a team of highly ambitious blockchain professionals to achieve an important goal — Establish a universal cryptocurrency that can be highly circulated worldwide, and at the same time develop a community that provide somer service like entertainment, discussion and so on, and the currency can be highly circulated on the community.
 
