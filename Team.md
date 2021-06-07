@@ -4,7 +4,7 @@ We have formed a team of highly ambitious blockchain professionals to achieve an
 
 **CEO Ivy**, More than 13 years’ experience of internet development in multiple technical middleware.Proficient in Java, Go and Rust and DevOps Expert.
 
-**CTO Louis**, More than 13 years' experience in research and development of IT industry. ACMer and expert in algorithm. Hold 3 patents and 3 papers which were published in international conferences. Familiar with blockchain and solidity. Gonzalo Core Developer. 
+**CTO Louis**, More than 13 years' experience in research and development of IT industry. ACMer and expert in algorithm. Hold 3 patents and 3 papers which were published in international conferences. Familiar with blockchain and solidity.
 
 **COO Antonio**, More than 15 year's website operation experience. Expert in Go, solidity and DevOps. Expert with Cloud DevOps covering AWS，Azure and AliCloud. 
 
