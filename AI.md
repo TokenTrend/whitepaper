@@ -10,6 +10,7 @@ As for machine learning algorithms, we use the following ML models for classific
 - artificial neural network (ANN)
 - stacked artificial neural network (SANN)
 - long short-term memory (LSTM)
+
 The classification is applied as follows: If the BTC daily closing price 𝑃𝐵𝑇𝐶[𝑡+1]−𝑃𝐵𝑇𝐶[𝑡]≥0 then 𝑦[𝑡]=+1, and if 𝑃𝐵𝑇𝐶[𝑡+1]−𝑃𝐵𝑇𝐶[𝑡]<0, then 𝑦[𝑡]=0, where y[t] is a target variable for categories of increasing and decreasing price. where y[t] is a target variable for categories of increasing and decreasing price. The regression models are used to predict BTC prices in a horizon of forecast for end-of-day and next day and will expend to 7 – 30 days for a long-term plan.
 For this part, we could get data from Coinmarketcap, Blockchain Info, etc.
 
