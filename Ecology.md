@@ -13,17 +13,17 @@ AI system will collect data from Internet and the data from **Simulate System**.
 #### Community System
 All token holders can write articles about coin trading, but the stars identified by our system will be marked with crown to show his professionalism. The articles can be categorized into 2 kinds, one is public for free and another is payed. And the blogger will get benifit from this part.
 
-### 4.1 Token Allocation
+### 4.2 Token Allocation
 
 ![avatar](./pic/token-allocation.png)
 
 All TokenTrend will be divided for different purpose. 
-- Token Sale - 20%:
-- Consultant - 5%:
-- Fundation - 10%:
-- Ecological Construction - 10%:
+- Token Sale - 20%: Token for sale.
+- Consultant - 5%: Token for consultant.
+- Fundation - 10%: 
+- Ecological Construction - 10%: 
 - Game/Mining Reward - 25%:
 - Environmental Protection - 5%:
-- Community Building - 5%:
-- Team - 20%:
+- Community Building - 5%: 
+- Team - 20%: Team salary and cost.
 
