@@ -8,9 +8,9 @@ We are building a web platform by an excellent and professional IT development t
 #### Feature1: The entertainment module, including quiz feature, index feature, etc.
 We will setup a lot of entertainment features in this module, like the quiz of the trend of real cryptocurrencies. Holders can use their trillionaire coins to have some fun as well as some benefits with these features. There will be a ranking board shows who are the best players in this module, since the trend we get is the real data from exchange, so the rank can show the true level of these top players, that makes their sharing and comments in our community module can guide other holders about the trend of real cryptocurrencies.
 
-We guarantee that there will be absolutely NO fee in this module, that means when holders enjoy here, it is a win-win business model without any extra burden that have to take. 
+We guarantee that there will be absolutely NO fee in this module, that means when holders enjoy here, it is a win-win business model without any extra burden that have to take.
 
-<img src="./pic/feature1-1.png" alt="avatar" style="zoom:150%;" /> 
+<img src="./pic/feature1-1.png" alt="avatar" style="zoom:150%;" />
 
 <img src="./pic/feature1-2.png" alt="avatar" style="zoom:90%;" />
 
@@ -24,10 +24,10 @@ We also know that almost everyone in the community (whether a crypto trader, a m
 
 For these pain points, we design the virtual market module, holders can operate the cryptocurrencies like what they do in the real exchange in this module, the different is that, the TokenTrend will be used instead of other kind of cryptocurrencies.
 
-With this excited feature, holders can practice and simulate this transaction here to verify their judgment on the cryptocurrencies with the opportunity to win more of TokenTrend at the same time. 
+With this excited feature, holders can practice and simulate this transaction here to verify their judgment on the cryptocurrencies with the opportunity to win more of TokenTrend at the same time.
 
 There will be a corresponding leaderboard list in this module shows that starts who have won the most coins, they can express their views on the trend in our community module as well, all the holders can take the benefits of their ideas since almost everyone on our website can browser all public sharing like what they do on Twitter or something, the different is that, this community is only built for the currency circle, and everyone has a clear vison of strong players since they can fetch all this information simply through our virtual market’s ranking board.
-![avatar](./pic/feature5-1.png) 
+![avatar](./pic/feature5-1.png)
 
 #### Feature3: The AI Trend Forecast module.
 We have strong AI technical support to realize trend forecast. Our virtual currency will be used as the circulation currency of this module. Holders can get information which AI generated to instruct their trading.
@@ -39,8 +39,8 @@ We will collect data from media, community and portal, with the semantic analysi
 We will collect latest news from website and chose the most important ones with our AI robot and then push to our customer. This service is provided to Trend Token holder only for free.
 
 #### Feature6: The online community module.
-The main mission of trillionaire coin’s community is to bring together the like-minded people to support each other and environmental protection worldwide. Holders will join the community and share their opinions in terms of cryptocurrency and environmental protection. With the interaction with other two modules, which are Quiz module and Virtual transaction module, holders can follow top players in these two modules where can show their true professional levels, that may bring a lot of benefits to almost everyone.
-![avatar](./pic/feature4-1.png) 
+The main mission of TrendToken’s community is to bring together the like-minded people to support each other and environmental protection worldwide. Holders will join the community and share their opinions in terms of cryptocurrency and environmental protection. With the interaction with other two modules, which are Quiz module and Virtual transaction module, holders can follow top players in these two modules where can show their true professional levels, that may bring a lot of benefits to almost everyone.
+![avatar](./pic/feature4-1.png)
 
 
 
