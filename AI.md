@@ -19,6 +19,10 @@ Here is picture shows a demo that use prophet to forecast BTC prices based on mo
 
 ![avatar](./pic/forecast.png)
 
+Another demo we did that was to do forecast with the help of SARIMA based on minutes unit historical data(form 2012-01-01 to 2021-03-31). The next picture shows the forecast result that there is a huge rise for the BTC price from 2021-04.
+
+![avatar](./pic/forecast2.png)
+
 ### 3.2 Public Sentiment
 On the other side, we also need to collect social data and public data about public sentiment. Different sentiment like "greed" or "fear" means different attitude toward to "buy" or "sell" BTC. Sentiment analysis (SA) is the system of extracting the polarity of individuals’ subjective opinions from plain normal language texts. Sentiment analysis includes characterizing opinions in text into categories like "positive" or "negative" or "neutral.
 
